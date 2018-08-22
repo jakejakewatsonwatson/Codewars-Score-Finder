@@ -1,0 +1,11 @@
+C:\Users\Jacob\source\repos\FindCodewarsScore\FindCodewarsScore\bin\Debug\netcoreapp2.0\FindCodewarsScore.deps.json
+C:\Users\Jacob\source\repos\FindCodewarsScore\FindCodewarsScore\bin\Debug\netcoreapp2.0\FindCodewarsScore.runtimeconfig.json
+C:\Users\Jacob\source\repos\FindCodewarsScore\FindCodewarsScore\bin\Debug\netcoreapp2.0\FindCodewarsScore.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\FindCodewarsScore\FindCodewarsScore\bin\Debug\netcoreapp2.0\FindCodewarsScore.dll
+C:\Users\Jacob\source\repos\FindCodewarsScore\FindCodewarsScore\obj\Debug\netcoreapp2.0\FindCodewarsScore.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\FindCodewarsScore\FindCodewarsScore\obj\Debug\netcoreapp2.0\FindCodewarsScore.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\FindCodewarsScore\FindCodewarsScore\obj\Debug\netcoreapp2.0\FindCodewarsScore.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\FindCodewarsScore\FindCodewarsScore\obj\Debug\netcoreapp2.0\FindCodewarsScore.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\FindCodewarsScore\FindCodewarsScore\bin\Debug\netcoreapp2.0\FindCodewarsScore.pdb
+C:\Users\Jacob\source\repos\FindCodewarsScore\FindCodewarsScore\obj\Debug\netcoreapp2.0\FindCodewarsScore.dll
+C:\Users\Jacob\source\repos\FindCodewarsScore\FindCodewarsScore\obj\Debug\netcoreapp2.0\FindCodewarsScore.pdb
